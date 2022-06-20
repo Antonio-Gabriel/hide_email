@@ -46,7 +46,7 @@ Como quis deixar um pouco mais símples o código, a segunda opção foi.
 
 ```javascript
 /**
- *  First solution for hide email
+ *  Second solution for hide email
  *
  * @params email: string
  */
